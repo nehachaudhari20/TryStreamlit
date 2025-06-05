@@ -1,5 +1,5 @@
-streamlit 
-openai 
+streamlit
+langchain 
+google-generativeai 
 faiss-cpu 
-sentence-transformers 
-PyMuPDF
+pypdf
